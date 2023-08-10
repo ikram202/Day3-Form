@@ -1,0 +1,62 @@
+p {
+  font-size: xx-large;
+  font-weight: 900;
+  color: blueviolet;
+  text-align: center;
+}
+.personal {
+  text-align: center;
+  font-size: x-large;
+  font-weight: 900;
+  color: lightpink;
+}
+div {
+    
+  width: 300px;
+  height: 300px;
+
+}
+
+fieldset {
+  width: auto;
+  text-align: center;
+  height: auto;
+  border: 1px solid blueviolet;
+
+}
+label {
+  color: blueviolet;
+  text-align: center;
+}
+input {
+  text-align: center;
+  font-size: larger;
+  width: 90px;
+  height: 20px;
+}
+.btn {
+  color: lightpink;
+  background-color: blueviolet;
+  border: 1px solid blueviolet;
+  width: 100px;
+  height: 30px;
+}
+.btn:hover {
+  color: #000;
+}
+select {
+  color: lightpink;
+  background-color: blueviolet;
+  border: 1px solid blueviolet;
+  width: 100px;
+  height: 30px;
+}
+
+input[type="date"] {
+    color: lightpink;
+    background-color: blueviolet;
+    border: 1px solid blueviolet;
+    height: 30px;
+    width: 150px;
+  }
+ 
